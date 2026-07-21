@@ -1,5 +1,5 @@
 {
   "artifactType":  "ARTIFACT_TYPE_OTHER",
-  "summary":  "Created FastAPI application entry point.",
-  "updatedAt":  "2026-07-21T12:58:12.744551500Z"
+  "summary":  "Updated backend to include the `/predict` endpoint that uses the newly trained machine learning model `pipe.pkl`.",
+  "updatedAt":  "2026-07-21T13:12:06.807364200Z"
 }
